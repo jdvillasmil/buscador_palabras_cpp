@@ -2,18 +2,20 @@
 
 Este proyecto fue uno de mis primeros ejercicios en C++. Su objetivo es buscar una palabra específica dentro de un archivo de texto y resaltarla en la terminal usando colores ANSI.
 
+This project was one of my first exercises in C++. Its goal is to search for a specific word within a text file and highlight it in the terminal using ANSI colors.
+
+---
+
 ## ¿Qué hace? / What does it do?
 
-- Lee un archivo línea por línea
-- Busca todas las coincidencias exactas de una palabra
-- Resalta las coincidencias en rojo en la terminal
-- Muestra estadísticas de coincidencias encontradas
+- 📄 Lee un archivo línea por línea  
+- 🔍 Busca todas las coincidencias exactas de una palabra  
+- 🎨 Resalta las coincidencias en rojo en la terminal  
+- 📊 Muestra estadísticas de coincidencias encontradas  
+
+---
 
 ## Uso / How to use
 
 ```bash
 ./programa <nombre_del_archivo> <palabra>
-
-Este proyecto representa mis primeros pasos en programación con C++. Me ayudó a entender lectura de archivos, manejo de strings, argumentos por consola y salida con formato.
-
-Autor / Author: Juan Lenguaje / Language: C++
